@@ -122,7 +122,7 @@ gn_total;
 ## Instalación
 ### Descargar Repositorio
 `
-git clone 
+git clone https://github.com/NayeliGuevara/ACTIVIDAD-E2/blob/main/README.md
 `
 ### Ingresar al repositorio
 `
